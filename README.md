@@ -1,5 +1,6 @@
 # pwd
-
-*What you do is in terminal or cmd do 'chmod +x ' than drag the file in after space. ex: chmod +x /Users/alexmunoz/Desktop/Code/shell/pwd.sh 
-Than to run cd in to the folder so for me it would be 'cd desktop/code/shell'
-Than do ./pwd.sh*
+*How to install:*
+1. Open terminal or command prompt(cmd)
+2. Cd to directory of file. EX: 'cd desktop' Replace desktop where your shell file is.
+3. In terminal / cmd do 'chmod +x ' Than drag file in. EX: 'chmod +x /Users/alexmunoz/Desktop/pwd.sh'
+4. Than do './pwd.sh'
